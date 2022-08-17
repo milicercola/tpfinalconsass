@@ -1,0 +1,16 @@
+.titulos1{
+    background-color: rgb(70, 70, 207);
+}
+.footer{
+    background-color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+@mixin font-size{
+    font-size:large;
+}
+h2{
+    @include font-size;
+}

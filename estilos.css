@@ -1,0 +1,15 @@
+.titulos1 {
+  background-color: rgb(70, 70, 207);
+}
+
+.footer {
+  background-color: black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  font-size: large;
+}/*# sourceMappingURL=estilos.css.map */
